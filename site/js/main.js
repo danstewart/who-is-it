@@ -2,7 +2,6 @@ window.addEventListener('DOMContentLoaded', async () => {
     const goButton = document.querySelector("button#go");
     goButton.addEventListener('click', () => {
         const boards = [
-            "BXhEH1cR",
             "U7F0BuLa",
             "oTeABFlZ",
             "UynZ2kQZ",
