@@ -9,7 +9,6 @@ window.addEventListener('DOMContentLoaded', async () => {
             "6oyzc3DR",
             "MhCnbaTQ",
             "IyTnRNai",
-            "6YxfFuBx",
             "JrFRFAFo",
             "6gJ8Odxo",
         ];
