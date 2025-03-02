@@ -1,3 +1,7 @@
+> [!WARNING]
+> The `v2` branch does not work yet.
+> This branch changes from using pre-defined boards to creating new boards from all 200 available faces.
+
 # Who is it?
 
 A simple person guessing game for 2-players using data from https://randomuser.me/.
@@ -7,8 +11,8 @@ https://who.danstewart.xyz
 ## Developing
 
 ```bash
-# Generate a new board
-./scripts/create-board.sh
+# Generate the game data
+ruby ./scripts/generate.rb
 
 # Start site
 cd site
