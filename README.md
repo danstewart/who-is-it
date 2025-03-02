@@ -29,3 +29,4 @@ scp -r site/* web:/var/www/who.danstewart.xyz
 4. Add Cloudflare.
 5. Improve design of crossed off results.
 6. Automatically copy board link on page load.
+7. Improve mobile UI.
