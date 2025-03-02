@@ -28,3 +28,4 @@ scp -r site/* web:/var/www/who.danstewart.xyz
 3. Remove unused fields from result JSON.
 4. Add Cloudflare.
 5. Improve design of crossed off results.
+6. Automatically copy board link on page load.
