@@ -1,6 +1,6 @@
 # Who is it?
 
-A simple person guessing game for 2-players.
+A simple person guessing game for 2-players using data from https://randomuser.me/.
 
 https://who.danstewart.xyz
 
