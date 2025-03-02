@@ -1,0 +1,51 @@
+body {
+    padding-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a#home {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#peopleGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+div#playerAnswer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div#playerAnswer img {
+    border: 3px solid green;
+}
+
+.person img {
+    border: 3px solid black;
+}
+
+.person.removed img {
+    border: 3px solid red;
+}
+
+.person.removed .playerName {
+    text-decoration: line-through;
+}
+
+
+.playerName {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
